@@ -24,13 +24,13 @@ importers:
   project-b:
     dependencies:
       core-js:
-        specifier: ^3.27.0
-        version: 3.27.0
+        specifier: ^3.33.0
+        version: 3.33.0
 
 packages:
 
-  /core-js@3.27.0:
-    resolution: {integrity: sha512-wY6cKosevs430KRkHUIsvepDXHGjlXOZO3hYXNyqpD6JvB0X28aXyv0t1Y1vZMwE7SoKmtfa6IASHCPN52FwBQ==}
+  /core-js@3.33.0:
+    resolution: {integrity: sha512-HoZr92+ZjFEKar5HS6MC776gYslNOKHt75mEBKWKnPeFDpZ6nH5OeF3S6HFT1mUAUZKrzkez05VboaX8myjSuw==}
     requiresBuild: true
     dev: false
 
